@@ -53,14 +53,11 @@
             <mxPoint x="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JqO3XtMDO4aosh0jrj5c-5" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="dc0nqa92FMbY49DklVH1-14">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="345" y="210" as="sourcePoint" />
-            <mxPoint x="470" y="210" as="targetPoint" />
+        <mxCell id="JqO3XtMDO4aosh0jrj5c-10" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="dc0nqa92FMbY49DklVH1-12" parent="dc0nqa92FMbY49DklVH1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="210" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JqO3XtMDO4aosh0jrj5c-6" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="JqO3XtMDO4aosh0jrj5c-5">
-          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
