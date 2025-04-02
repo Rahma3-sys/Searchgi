@@ -156,6 +156,15 @@
             <mxPoint x="370" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JqO3XtMDO4aosh0jrj5c-51" value="EnvoyerEmailRéinitialisation()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="658" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JqO3XtMDO4aosh0jrj5c-53" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="580" y="687.0500000000001" as="sourcePoint" />
+            <mxPoint x="770" y="687.0500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
