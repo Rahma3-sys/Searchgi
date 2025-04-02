@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.3">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1214" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,16 +153,16 @@
         <mxCell id="JqO3XtMDO4aosh0jrj5c-51" value="EnvoyerEmailRéinitialisation()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dc0nqa92FMbY49DklVH1-14">
           <mxGeometry x="510" y="628" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JqO3XtMDO4aosh0jrj5c-53" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="dc0nqa92FMbY49DklVH1-14">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="500" y="658.0500000000001" as="sourcePoint" />
+            <mxPoint x="660" y="658" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JqO3XtMDO4aosh0jrj5c-36" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="180" y="580" as="sourcePoint" />
             <mxPoint x="370" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JqO3XtMDO4aosh0jrj5c-53" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="580" y="687.0500000000001" as="sourcePoint" />
-            <mxPoint x="740" y="687" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
