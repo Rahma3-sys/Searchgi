@@ -1,131 +1,208 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.3">
   <diagram name="Page-1" id="eMXHJkmgkza-26GK9PLf">
-    <mxGraphModel dx="2550" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VynpJV-AGfuolloux9Fp-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="195" width="40" height="40" as="geometry" />
+          <mxGeometry x="188.59" width="42.82" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="VynpJV-AGfuolloux9Fp-5" edge="1">
+        <mxCell id="VynpJV-AGfuolloux9Fp-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="90" as="targetPoint" />
+            <mxPoint x="209.85" y="160" as="targetPoint" />
+            <mxPoint x="210.07000000000002" y="159.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210.07000000000002" y="119.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VynpJV-AGfuolloux9Fp-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="455" y="940" width="50" height="50" as="geometry" />
+          <mxGeometry x="650" y="1110" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-8" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Accéder à la page du service&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="135" y="260" width="160" height="80" as="geometry" />
+        <mxCell id="VynpJV-AGfuolloux9Fp-8" value="&lt;span id=&quot;docs-internal-guid-4ecc1bc6-7fff-6ce5-8452-18604c7487a4&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Roboto, sans-serif; color: rgb(64, 64, 64); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Accéder à la page de connexion&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="131.89" y="320" width="168.11" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-14" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Utilisateur connecté ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="129.38" y="90" width="171.25" height="130" as="geometry" />
+        <mxCell id="VynpJV-AGfuolloux9Fp-14" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;l&#39;tilisateur est-il déjà inscrit?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="114.67999999999999" y="160" width="190.63" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-15" value="non" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
+        <mxCell id="VynpJV-AGfuolloux9Fp-15" value="non" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="VynpJV-AGfuolloux9Fp-14">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="400.63" y="154.55" as="targetPoint" />
-            <mxPoint x="300.63" y="154.55" as="sourcePoint" />
+            <mxPoint x="410" y="225" as="targetPoint" />
+            <mxPoint x="320" y="155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-16" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VynpJV-AGfuolloux9Fp-14" edge="1">
+        <mxCell id="VynpJV-AGfuolloux9Fp-16" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="215" y="260" as="targetPoint" />
-            <mxPoint x="214.5" y="250" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-17" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Se connecter&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="400" y="127.5" width="140" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.969;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="VynpJV-AGfuolloux9Fp-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.63" y="297.5" as="targetPoint" />
-            <mxPoint x="470.63" y="182.5" as="sourcePoint" />
+            <mxPoint x="209.31" y="320" as="targetPoint" />
+            <mxPoint x="210.69" y="290" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="471" y="243" />
-              <mxPoint x="470" y="243" />
-              <mxPoint x="470" y="298" />
+              <mxPoint x="210.69" y="290" />
+              <mxPoint x="209.69" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-20" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Cliquer sur &quot;Write a review&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="128.12" y="390" width="166.88" height="70" as="geometry" />
+        <mxCell id="VynpJV-AGfuolloux9Fp-17" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;S&#39;inscrire&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="410" y="190" width="144" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
+        <mxCell id="VynpJV-AGfuolloux9Fp-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206.19" y="490" as="targetPoint" />
-            <mxPoint x="204.45000000000005" y="460" as="sourcePoint" />
+            <mxPoint x="300" y="358" as="targetPoint" />
+            <mxPoint x="470" y="250" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="206.06" y="460" />
-              <mxPoint x="206.06" y="491" />
+              <mxPoint x="480" y="250" />
+              <mxPoint x="480" y="358" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.451;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.467;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VynpJV-AGfuolloux9Fp-8" edge="1" target="VynpJV-AGfuolloux9Fp-20">
+        <mxCell id="VynpJV-AGfuolloux9Fp-20" value="&lt;span id=&quot;docs-internal-guid-eeedeadf-7fff-d1c3-1642-94d2237389d4&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Roboto, sans-serif; color: rgb(64, 64, 64); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Saisir identifiant et mot de passe&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="129.38" y="440" width="166.88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VynpJV-AGfuolloux9Fp-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="smAhoHIi0Y0n3w3vJCs2-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.35999999999999" y="570" as="targetPoint" />
+            <mxPoint x="200.73" y="510" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VynpJV-AGfuolloux9Fp-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.467;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VynpJV-AGfuolloux9Fp-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="209" y="360" as="targetPoint" />
-            <mxPoint x="209.44" y="340" as="sourcePoint" />
+            <mxPoint x="210" y="400" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="206" y="342" />
+              <mxPoint x="207" y="400" />
+              <mxPoint x="207" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VynpJV-AGfuolloux9Fp-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="205.14000000000001" y="610" as="targetPoint" />
-            <mxPoint x="204.99" y="560" as="sourcePoint" />
+            <mxPoint x="200.46" y="650" as="targetPoint" />
+            <mxPoint x="200" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-28" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Soumettre l&#39;avis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="127.97999999999999" y="610" width="154.68" height="60" as="geometry" />
+        <mxCell id="VynpJV-AGfuolloux9Fp-32" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Informations incorrectes?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="647.5" width="201.25" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-32" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Avis validé ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="109.38" y="710" width="201.25" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-34" value="non" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.493;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.491;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="VynpJV-AGfuolloux9Fp-53" source="VynpJV-AGfuolloux9Fp-32">
+        <mxCell id="VynpJV-AGfuolloux9Fp-34" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.493;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="208" y="860" as="targetPoint" />
-            <mxPoint x="208.67" y="820" as="sourcePoint" />
+            <mxPoint x="200.79999999999998" y="800" as="targetPoint" />
+            <mxPoint x="200.39625" y="751.25" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="209" y="841" />
+              <mxPoint x="200.79999999999998" y="780" />
+              <mxPoint x="200.79999999999998" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-38" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="209.26" y="710" as="targetPoint" />
-            <mxPoint x="209.58999999999997" y="670" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="VynpJV-AGfuolloux9Fp-39" value="&lt;span id=&quot;docs-internal-guid-38f061cf-7fff-fb0f-99fc-b99cfcf55fa8&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Roboto, sans-serif; color: rgb(64, 64, 64); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Récupération de compte&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="104.37" y="1070" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-39" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Publication de l&#39;avis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="400" y="727.5" width="180" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-48" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
+        <mxCell id="VynpJV-AGfuolloux9Fp-48" value="non" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="400" y="760" as="targetPoint" />
-            <mxPoint x="310.63" y="759.41" as="sourcePoint" />
+            <mxPoint x="579.68" y="699.81" as="targetPoint" />
+            <mxPoint x="305.62" y="699.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VynpJV-AGfuolloux9Fp-53" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Message d&#39;erreur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="123.75999999999999" y="862.5" width="172.5" height="67.5" as="geometry" />
+        <mxCell id="VynpJV-AGfuolloux9Fp-53" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Afficher erreur&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="510" y="450" width="172.5" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="smAhoHIi0Y0n3w3vJCs2-1" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Saisir l&#39;avis et la note&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="128.12" y="490" width="163.12" height="70" as="geometry" />
+        <mxCell id="smAhoHIi0Y0n3w3vJCs2-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;Envoyer les&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;informations&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="119.07000000000001" y="550" width="163.12" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="smAhoHIi0Y0n3w3vJCs2-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="smAhoHIi0Y0n3w3vJCs2-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="VynpJV-AGfuolloux9Fp-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="128.1199999999999" y="524.94" as="targetPoint" />
-            <mxPoint x="204.79000000000002" y="929.94" as="sourcePoint" />
+            <mxPoint x="130" y="360" as="targetPoint" />
+            <mxPoint x="94.6700000000001" y="1159.9699999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="205" y="990" />
-              <mxPoint x="80" y="990" />
-              <mxPoint x="80" y="525" />
+              <mxPoint x="201" y="1140" />
+              <mxPoint x="201" y="1150" />
+              <mxPoint x="28" y="1150" />
+              <mxPoint x="28" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="smAhoHIi0Y0n3w3vJCs2-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+        <mxCell id="smAhoHIi0Y0n3w3vJCs2-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.518;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="aam_4js0MpayMjDc0RfM-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479" y="930" as="targetPoint" />
-            <mxPoint x="479.29" y="792.5" as="sourcePoint" />
+            <mxPoint x="678" y="1100" as="targetPoint" />
+            <mxPoint x="674.49" y="920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-5" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Mot de passe oublié?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="98.75" y="938" width="201.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-6" value="Accéder à l&#39;espace utilisateur" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="585" y="843.75" width="180" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-8" value="&lt;span id=&quot;docs-internal-guid-be5fb70a-7fff-26f3-3a0f-3e507117ec9a&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Roboto, sans-serif; color: rgb(64, 64, 64); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Connexion réussie&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="665" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="840" as="targetPoint" />
+            <mxPoint x="682.502244897959" y="730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="940" as="targetPoint" />
+            <mxPoint x="200.23224489795913" y="898" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-12" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Nouvelle tentative?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="800" width="201.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="aam_4js0MpayMjDc0RfM-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="targetPoint" />
+            <mxPoint x="300" y="990" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="440" y="990" />
+              <mxPoint x="440" y="1160" />
+              <mxPoint x="20" y="1160" />
+              <mxPoint x="20" y="41" />
+              <mxPoint x="133" y="41" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-14" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="890" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-19" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Accéder à la page d&#39;acceuil&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="132.81" y="60" width="172.5" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-20" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=-0.004;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VynpJV-AGfuolloux9Fp-20">
+          <mxGeometry x="-0.791" y="-10" relative="1" as="geometry">
+            <mxPoint x="109.38000000000011" y="445" as="targetPoint" />
+            <mxPoint x="100" y="850" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="850" />
+              <mxPoint x="80" y="471" />
+              <mxPoint x="109" y="471" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-25" value="non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295.63" y="960" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.06000000000003" y="1070" as="targetPoint" />
+            <mxPoint x="199.06000000000003" y="1038" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-27" value="oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="192.82" y="1030" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aam_4js0MpayMjDc0RfM-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.71" y="59.97" as="targetPoint" />
+            <mxPoint x="209.71" y="49.97" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="208.88000000000002" y="40" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
